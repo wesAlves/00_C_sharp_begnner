@@ -1,0 +1,14 @@
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/bin/Debug/net8.0/HelloWorldNet8
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/bin/Debug/net8.0/HelloWorldNet8.deps.json
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/bin/Debug/net8.0/HelloWorldNet8.runtimeconfig.json
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/bin/Debug/net8.0/HelloWorldNet8.dll
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/bin/Debug/net8.0/HelloWorldNet8.pdb
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/obj/Debug/net8.0/HelloWorldNet8.GeneratedMSBuildEditorConfig.editorconfig
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/obj/Debug/net8.0/HelloWorldNet8.AssemblyInfoInputs.cache
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/obj/Debug/net8.0/HelloWorldNet8.AssemblyInfo.cs
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/obj/Debug/net8.0/HelloWorldNet8.csproj.CoreCompileInputs.cache
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/obj/Debug/net8.0/HelloWorldNet8.dll
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/obj/Debug/net8.0/refint/HelloWorldNet8.dll
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/obj/Debug/net8.0/HelloWorldNet8.pdb
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/obj/Debug/net8.0/HelloWorldNet8.genruntimeconfig.cache
+/home/wes/Documents/01_Clientes/00_Wesley/00_Estudos/XIII_UDEMY/00_C#_begnner/00_hello_world/HelloWorldNet8/HelloWorldNet8/obj/Debug/net8.0/ref/HelloWorldNet8.dll
