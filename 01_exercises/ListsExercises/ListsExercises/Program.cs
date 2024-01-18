@@ -8,6 +8,13 @@ namespace ListsExercises
     {
         public static void Main(string[] args)
         {
+            // likes_counter();
+
+            name_reverser("Jaca melão abacate pera");
+        }
+
+        private static void likes_counter()
+        {
             // ask to user enter a name until the neme is ""
             var friends = new List<string>();
 
@@ -42,6 +49,21 @@ namespace ListsExercises
                 {
                     Console.WriteLine(String.Format("+ {0}", amountOfFriends - 2));
                 }
+            }
+        }
+
+        private static void name_reverser(string name)
+        {
+            var reversedName = new List<char>();
+
+            for (var i = name.Length - 1; i >= 0; i--)
+            {
+                reversedName.Add(name[i]);
+            }
+
+            foreach (var letter in reversedName)
+            {
+                Console.Write(letter);
             }
         }
     }
