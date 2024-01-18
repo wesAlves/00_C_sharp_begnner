@@ -1,0 +1,6 @@
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\00_C#_begnner\01_exercises\ListsExercises\ListsExercises\bin\Debug\ListsExercises.exe
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\00_C#_begnner\01_exercises\ListsExercises\ListsExercises\bin\Debug\ListsExercises.pdb
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\00_C#_begnner\01_exercises\ListsExercises\ListsExercises\obj\Debug\ListsExercises.csproj.AssemblyReference.cache
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\00_C#_begnner\01_exercises\ListsExercises\ListsExercises\obj\Debug\ListsExercises.csproj.CoreCompileInputs.cache
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\00_C#_begnner\01_exercises\ListsExercises\ListsExercises\obj\Debug\ListsExercises.exe
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\00_C#_begnner\01_exercises\ListsExercises\ListsExercises\obj\Debug\ListsExercises.pdb
